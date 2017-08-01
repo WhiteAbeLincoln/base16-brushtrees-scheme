@@ -1,2 +1,2 @@
-# base16-brush-trees
+# base16-brushtrees
 muted base16 theme
