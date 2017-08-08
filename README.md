@@ -1,10 +1,13 @@
 # base16-brushtrees
-muted base16 theme
+> A muted [base16](http://chriskempson.com/projects/base16/) theme
 
 ## Previews
 
 base16-brushtrees
-![light](https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme/raw/master/light.png)
+![light](./light.png)
 
 base16-brushtrees-dark
-![dark](https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme/raw/master/dark.png)
+![dark](./dark.png)
+
+## License
+[MIT License](./LICENSE)
